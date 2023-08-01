@@ -17,6 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## UI
+![screencapture-localhost-3000-2023-08-01-18_46_54](https://github.com/aboutmohsin/next_TodoApp/assets/86055307/69d4c875-0a6b-48d9-8036-9be660c25be9)
 
 ## Learn More
 
